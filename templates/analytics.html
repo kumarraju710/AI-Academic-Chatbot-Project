@@ -1,0 +1,30 @@
+{% extends "base_admin.html" %}
+{% block content %}
+
+<div class="container mt-4">
+    <h2>Analytics</h2>
+    <h3>Recent Chat Logs</h3>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>User</th>
+                <th>Message</th>
+                <th>Response</th>
+                <th>Timestamp</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for log in chat_logs %}
+            <tr>
+                <td>{{ log.user.username }}</td>
+                <td>{{ log.message }}</td>
+                <td>{{ log.response }}</td>
+                <td>{{ log.timestamp }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <a href="{% url 'admin_dashboard' %}" class="btn btn-primary">Back to Dashboard</a>
+</div>
+
+{% endblock %}

@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Aditya College of Engineering",
+    "location": "Surampalem",
+    "about": "Aditya College of Engineering is a premier institution affiliated with JNTUK,established around 2001, known for excellent academic programs and industry collaborations. The college provides state-of-the-art infrastructure and faculty expertise in various engineering disciplines.",
+    "placement_details": "Strong placement record with average package of ₹5.5 LPA. Companies like TCS, Infosys, Wipro, and Amazon visit the campus regularly for recruitment.",
+    "environment": "The college maintains a vibrant academic environment with modern classrooms, well-equipped laboratories, library facilities, sports complex, and hostel accommodations. Active student clubs and cultural activities are promoted.",
+    "courses": [
+      {"name": "CSE", "fee": 54000, "seats": 120},
+      {"name": "CSE (AI & DS)", "fee": 50000, "seats": 60},
+      {"name": "ECE", "fee": 48000, "seats": 90},
+      {"name": "IT", "fee": 52000, "seats": 90},
+      {"name": "Mechanical", "fee": 40000, "seats": 60},
+      {"name": "Civil", "fee": 42000, "seats": 80}
+    ],
+    "deadline": "June 27",
+    "late_fee": 500,
+    "registration_start": "Feb 19",
+    "registration_end": "March 17",
+    "class starts from":"April 15"
+    
+  },
+  {
+    "name": "RVR & JC College of Engineering",
+    "location": "Chowdavaram,Guntur",
+    "about": "RVR & JC college of  Engineering  is established in 1985,Affiliation to Acharya Nagarjuna University Approved by AICTE,NAAC accredited.This college is dedicated to providing quality engineering education with focus on practical learning and skill development.",
+    "placement_details": "Highest placement package of ₹25-45 LPA with major recruiters including Accenture, Cognizant, IBM, and various IT companies. Consistent 85% placement rate.",
+    "environment": "Excellent campus with modern facilities including digital classrooms, research labs, library, cafeteria, and sports amenities. Supportive learning environment with regular seminars and workshops.",
+    "courses": [
+      {"name": "CSE", "fee": 59000, "seats": 360},
+      {"name": "CSE (AI&ML)", "fee": 55000, "seats": 180},
+      {"name": "ECE", "fee": 50000, "seats": 180},
+      {"name": "IT", "fee": 53000, "seats": 120},
+      {"name": "Mechanical", "fee": 40000, "seats": 120},
+      {"name": "Civil", "fee": 45000, "seats": 120}
+    ],
+    "deadline": "July-August",
+    "late_fee": 1000,
+    "registration_start": "Feb",
+    "registration_end": "March"
+  },
+  {
+    "name": "GMR Institute of Technology",
+    "location": "Rajam",
+    "about": "GMR Institute of Technology (GMRIT) is a leading autonomous engineering institution with world-class infrastructure. Known for research-oriented approach and international academic collaborations.",
+    "placement_details": "Highest average package of ₹29 - 40 LPA with top-tier companies like Microsoft, Amazon, Google, and Goldman Sachs participating in recruitment. 100% placement record.",
+    "environment": "Premier campus with state-of-the-art facilities including advanced labs, library with extensive resources, sports complex with multiple facilities, hostel accommodations, and vibrant student community.",
+    "courses": [
+      {"name": "CSE", "fee": 108000, "seats": 300},
+      {"name": "CSE (AI & ML)", "fee": 104000, "seats": 260},
+      {"name": "ECE", "fee": 80000, "seats": 180},
+      {"name": "IT", "fee": 95000, "seats": 180},
+      {"name": "Mechanical", "fee": 65000, "seats": 120},
+      {"name": "Civil", "fee": 60000, "seats": 120}
+    ],
+    "deadline": "July - August",
+    "late_fee": 500,
+    "registration_start": "April 10",
+    "registration_end": "May"
+  },
+  {
+    "name": "Godavari Institute of Engineering & Technology",
+    "location": "Rajahmundry",
+    "about": "Godavari Institute of Engineering & Technology provides quality engineering education with focus on innovation and industry relevance. The institute maintains strong industry connections and academic standards.",
+    "placement_details": "Good placement rate with average package of ₹5.2 LPA. Recruiters include HCL, Tech Mahindra, Capgemini, and various software development companies.",
+    "environment": "Well-maintained campus with adequate infrastructure including classrooms, labs, library, sports facilities, and hostel. Active technical and cultural committees organize regular events.",
+    "courses": [
+      {"name": "CSE", "fee": 75000, "seats": 180},
+      {"name": "CSE (AI&DS)", "fee": 65000, "seats": 180},
+      {"name": "CSE (AI&ML)", "fee": 65000, "seats": 180},
+      {"name": "ECE", "fee": 55000, "seats": 120},
+      {"name": "IT", "fee": 75000, "seats": 160},
+      {"name": "Mechanical", "fee": 50000, "seats": 60},
+      {"name": "Civil", "fee": 45000, "seats": 80}
+    ],
+    "deadline": "June",
+    "late_fee": 750,
+    "registration_start": "March",
+    "registration_end": "May"
+  },
+  {
+    "name": "Helapuri Institue of Technology and science",
+    "location": "Eluru",
+    "about": "Helapuri Institue of Technology and science is an affordable and quality institution dedicated to imparting engineering education with emphasis on practical skills and competency development.",
+    "placement_details": "Average placement package of ₹4.2 LPA with recruiters from IT, manufacturing, and service sectors. Consistent 65%+ placement rate.",
+    "environment": "Campus with adequate infrastructure, well-equipped labs, library, sports grounds, and hostel facilities. Student-friendly atmosphere with regular cultural and sports events.",
+    "courses": [
+      {"name": "CSE", "fee": 43000, "seats": 120},
+      {"name": "ECE", "fee": 35000, "seats": 90},
+      {"name": "AI", "fee": 40000, "seats": 120},
+      {"name": "IT", "fee": 38000, "seats": 90},
+      {"name": "Mechanical", "fee": 30000, "seats": 60},
+      {"name": "Civil", "fee": 30000, "seats": 80}
+    ],
+    "deadline": "August",
+    "late_fee": 920,
+    "registration_start": "April 14",
+    "registration_end": "April 25"
+  },
+  {
+    "name": "CRR College of Engineering",
+    "location": "Eluru",
+    "about": "CR Reddy College of Engineering is a reputed institution in Eluru offering quality engineering education with strong industry-academic partnerships and modern infrastructure.",
+    "placement_details": "Excellent placement record with average package of ₹6.0 LPA. Major recruiters include Deloitte, Oracle, Cognizant, and various multinational companies.",
+    "environment": "Modern campus located in Hyderabad with excellent facilities including digital labs, auditorium, library, student centers, sports complex, and residential facilities.",
+    "courses": [
+      {"name": "CSE", "fee": 85000, "seats": 120},
+      {"name": "CSE (AI)", "fee": 80000, "seats": 60},
+       {"name": "CSE (AI&ML)", "fee": 80000, "seats": 60},
+      {"name": "ECE", "fee": 75000, "seats": 90},
+      {"name": "IT", "fee": 85000, "seats": 90},
+      {"name": "Mechanical", "fee": 65000, "seats": 60},
+      {"name": "Civil", "fee": 60000, "seats": 80}
+    ],
+    "deadline": "September",
+    "late_fee":1020,
+    "registration_start": "June",
+    "registration_end": "August"
+  },
+  {
+    "name": "Eluru College of Engineering and Technology",
+    "location": "Eluru",
+    "about": "Eluru College of Engineering and Technology is established in 2008, affiliated with JNTUK, committed to providing quality engineering education with emphasis on innovation and industry readiness.",
+    "placement_details": "Good placement rate with average package of ₹4.8 LPA. Recruiters include Mindtree, Genpact, Zensar,Infosys,Accenture and various IT organizations,placement rate 80%",
+    "environment": "Spacious campus with modern facilities including smart classrooms, equipped labs, comprehensive library, sports amenities, hostel, and cafeteria.",
+    "courses": [
+      {"name": "CSE", "fee": 45000, "seats": 120},
+       {"name": "AI&DS", "fee": 43000, "seats": 120},
+       {"name": "DS", "fee": 40000, "seats": 120},
+      {"name": "ECE", "fee": 37000, "seats": 90},
+      {"name": "Mechanical", "fee": 33000, "seats": 60},
+       {"name": "EEE", "fee": 30000, "seats": 120},
+       {"name": "M.Tech", "fee": 50000, "seats": 120},
+       {"name": "MBA", "fee": 70000, "seats": 120}
+
+     
+    ],
+    "deadline": "July",
+    "late_fee": 100,
+    "registration_start": "May",
+    "registration_end": "June"
+  },
+  {
+    "name": "Ramachandra College of Engineering and Technology",
+    "location": "Eluru",
+    "about": "Ramachandra College of Engineering and Technology is a well-established institution affiliated with JNTUK, committed to providing quality engineering education with emphasis on innovation and industry readiness.",
+    "placement_details": "Good placement rate with average package of ₹4.8 LPA. Recruiters include Mindtree, Genpact, Zensar, and various IT organizations.",
+    "environment": "Spacious campus with modern facilities including smart classrooms, equipped labs, comprehensive library, sports amenities, hostel, and cafeteria.",
+    "courses": [
+      {"name": "CSE", "fee": 45000, "seats": 120},
+      {"name": "ECE", "fee": 45000, "seats": 90},
+      {"name": "IT", "fee": 45000, "seats": 90},
+      {"name": "Mechanical", "fee": 40000, "seats": 60},
+      {"name": "Civil", "fee": 40000, "seats": 80}
+    ],
+    "deadline": "July 25",
+    "late_fee": 500,
+    "registration_start": "March 17",
+    "registration_end": "March 25"
+    
+  }
+  
+]

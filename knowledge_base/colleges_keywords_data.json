@@ -1,0 +1,127 @@
+[
+  {
+    "keywords": ["aditya", "aditya college", "aditya cse", "aditya ai", "aditya ece", "aditya it", "aditya mechanical", "aditya civil"],
+    "college": "Aditya College of Engineering",
+    "location": "Surampalem",
+    "courses": [
+      {"name": "CSE", "fee": 54000},
+      {"name": "CSE (AI & DS)", "fee": 50000},
+      {"name": "ECE", "fee": 48000},
+      {"name": "IT", "fee": 52000},
+      {"name": "Mechanical", "fee": 40000},
+      {"name": "Civil", "fee": 42000}
+    ],
+    "deadline": "June 27",
+    "late_fee": 500,
+    "class starts from":"April 15"
+  },
+  {
+    "keywords": ["rvr & jc", "rvr & jc college", "rvr & jc cse", "rvr & jc ai", "rvr & jcece", "rvr & jc it", "rvr & jcmechanical", "rvr & jc civil","RVR & JC"],
+    "college": "RVR & Jc Engineering College",
+    "location": "Guntur",
+    "courses": [
+      {"name": "CSE", "fee": 59000},
+      {"name": "CSE (AI&ML)", "fee": 55000},
+      {"name": "ECE", "fee": 50000},
+      {"name": "IT", "fee": 53000},
+      {"name": "Mechanical", "fee": 40000},
+      {"name": "Civil", "fee": 45000}
+    ],
+    "deadline": "July August",
+    "late_fee": 1000
+  },
+  {
+    "keywords": ["gmrit college", "gmr institute", "gmr cse", "gmr ai", "gmr ece", "gmr it", "gmr mechanical", "gmr civil","GMR college"],
+    "college": "GMR Institute of Technology",
+    "location": "Rajam",
+    "courses": [
+      {"name": "CSE", "fee": 108000},
+      {"name": "CSE (AI & ML)", "fee": 104000},
+      {"name": "ECE", "fee": 80000},
+      {"name": "IT", "fee": 95000},
+      {"name": "Mechanical", "fee": 65000},
+      {"name": "Civil", "fee": 60000}
+    ],
+    "deadline": "July-August",
+    "late_fee": 500
+  },
+  {
+    "keywords": ["giet", "godavari", "godavari cse", "godavari ai", "godavari ece", "godavari it", "godavari mechanical", "godavari civil"],
+    "college": "Godavari Institute of Engineering & Technology",
+    "location": "Rajahmundry",
+    "courses": [
+      {"name": "CSE", "fee": 75000},
+      {"name": "CSE (AI&DS)", "fee": 65000},
+      {"name": "CSE (AI&ML)", "fee": 65000},
+      {"name": "ECE", "fee": 55000},
+      {"name": "IT", "fee": 75000},
+      {"name": "Mechanical", "fee": 50000},
+      {"name": "Civil", "fee": 45000}
+    ],
+    "deadline": "June",
+    "late_fee": 750
+  },
+  {
+    "keywords": ["helapuri college", "Helapuri Institute", "helapuri cse", "helapuri ece", "helapuri it", "helapuri mechanical", "helapuri civil"],
+    "college": "Helapuri Institue of Technology and science",
+    "location": "Eluru",
+    "courses": [
+      {"name": "CSE", "fee": 43000},
+      {"name": "ECE", "fee": 35000},
+      {"name": "AI", "fee": 40000},
+      {"name": "IT", "fee": 38000},
+      {"name": "Mechanical", "fee": 30000},
+      {"name": "Civil", "fee": 30000}
+    ],
+    "deadline": "August",
+    "late_fee": 920
+  },
+  {
+    "keywords": ["rc", "rc college", "rc cse", "rc ece","ramachandra college","ramachandra engineering college"],
+    "college": "Ramachandra College of Engineering",
+    "location": "Eluru",
+    "courses": [
+      {"name": "CSE", "fee": 35000},
+      {"name": "ECE", "fee": 35000},
+      {"name": "IT", "fee": 35000},
+      {"name": "Mechanical", "fee": 35000},
+      {"name": "Civil", "fee": 35000}
+    ],
+    "deadline": "July 25"
+    
+  },
+   {
+    "keywords": ["CRR college", "crr college of engineering", "crr cse", "crr ece","crr college","crr engineering college","CR Reddy college","cr reddy college"],
+    "college": "CRR College of Engineering",
+    "location": "Eluru",
+    "courses": [
+      {"name": "CSE", "fee": 85000},
+      {"name": "AI&ML", "fee": 80000},
+      {"name": "AI", "fee": 80000},
+      {"name": "ECE", "fee": 75000},
+      {"name": "IT", "fee": 85000},
+      {"name": "Mechanical", "fee": 65000},
+      {"name": "Civil", "fee": 60000}
+    ],
+    "deadline": "September"
+    
+  },
+  {
+    "keywords": ["Eluru college", "eluru college of engineering", "eluru cse", "eluru ece","eluru college","eluru engineering college","eluru college","eluru college"],
+    "college": "Eluru College of Engineering and Technology",
+    "location": "Eluru",
+    "courses": [
+      {"name": "CSE", "fee": 45000},
+      {"name": "AI&DS", "fee": 43000},
+      {"name": "DS", "fee": 40000},
+      {"name": "ECE", "fee": 37000},
+      {"name": "EEE", "fee": 30000},
+      {"name": "M.Tech", "fee": 50000},
+      {"name": "MBA", "fee": 70000},
+      {"name": "Mechanical", "fee": 33000}
+      
+    ],
+    "deadline": "July"
+    
+  }
+]

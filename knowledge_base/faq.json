@@ -1,0 +1,273 @@
+{
+  "enrollment_process": {
+    "keywords": ["enroll", "enrollment", "registration", "admission process", "how to enroll", "enrollment steps", "course selection", "branch selection"],
+    "responses": [
+      "The enrollment process begins with online registration through the university or college portal. During registration, you must select your preferred course (e.g., CSE, CSE(AI), ECE, IT, Mechanical, Civil, etc.), submit required documents, and pay the course-specific fee.",
+      "To enroll, register online, select your desired course/branch, upload documents, and pay the corresponding fee as per your course and college.",
+      "Enrollment involves online registration, course selection, document submission, and payment of the exact fee for your chosen course and college."
+    ]
+  },
+  "enrollment_dates": {
+    "keywords": ["enrollment date", "registration date", "admission date"],
+    "responses": [
+      "Enrollment starts on March 10 and ends on March 25 for the upcoming semester.",
+      "The registration period is from March 10 to March 25.",
+      "You can enroll between March 10 and March 25.",
+      "Enrollment opens on March 10 and closes on March 25.",
+      "Registration dates: March 10 to March 25."
+    ]
+  },
+  "late_enrollment": {
+    "keywords": ["late enrollment", "missed enrollment", "after deadline", "late registration", "enroll late"],
+    "responses": [
+      "Late enrollment is allowed only with special permission from the academic office and may include a late fee.",
+      "If you miss the deadline, contact the academic office for special permission; a late fee may apply.",
+      "Late registration requires approval from the academic office and incurs additional charges.",
+      "For late enrollment, seek permission from the academic office; expect a late fee.",
+      "Late admissions are possible with office approval and a penalty fee."
+    ]
+  },
+  "aditya_college": {
+    "keywords": ["aditya", "aditya college", "aditya cse", "aditya ai", "aditya ece", "aditya it", "aditya mechanical", "aditya civil"],
+    "responses": [
+      "Aditya College of Engineering (Surampalem) offers CSE, CSE (AI & ML), ECE, IT, Mechanical, Civil. Annual fee for each course: ₹55,000. Fee deadline: July 31. Late fee: ₹500 per week."
+    ]
+  },
+  "pragati_college": {
+    "keywords": ["pragati", "pragati college", "pragati cse", "pragati ai", "pragati ece", "pragati it", "pragati mechanical", "pragati civil"],
+    "responses": [
+      "Pragati Engineering College (Surampalem) offers CSE, CSE (AI), ECE, IT, Mechanical, Civil. Annual fee for each course: ₹55,000. Fee deadline: July 31. Late fee: ₹500 per week."
+    ]
+  },
+  "gmrit_college": {
+    "keywords": ["gmrit", "gmr institute", "gmr cse", "gmr ai", "gmr ece", "gmr it", "gmr mechanical", "gmr civil"],
+    "responses": [
+      "GMR Institute of Technology (Rajam) offers CSE, CSE (AI & ML), ECE, IT, Mechanical, Civil. Annual fee for each course: ₹1,08,000. Fee deadline: July 31. Late fee: ₹500 per week."
+    ]
+  },
+  "giet_college": {
+    "keywords": ["giet", "godavari", "godavari cse", "godavari ai", "godavari ece", "godavari it", "godavari mechanical", "godavari civil"],
+    "responses": [
+      "Godavari Institute of Engineering & Technology (Rajahmundry) offers CSE, CSE (AI), ECE, IT, Mechanical, Civil. Annual fee for each course: ₹55,000. Fee deadline: July 31. Late fee: ₹500 per week."
+    ]
+  },
+  "vsm_college": {
+    "keywords": ["vsm", "vsm college", "vsm cse", "vsm ece", "vsm it", "vsm mechanical", "vsm civil"],
+    "responses": [
+      "VSM College of Engineering (Ramachandrapuram) offers CSE, ECE, IT, Mechanical, Civil. Annual fee for each course: ₹35,000. Fee deadline: July 31. Late fee: ₹500 per week."
+    ]
+  },
+    "university_info": {
+      "keywords": [
+        "university", "college", "affiliated colleges", "list of colleges",
+        "list colleges", "show colleges", "college list", "available colleges",
+        "jntuk colleges", "about university", "about college", "universities",
+        "colleges", "jntuk", "jntu kakinada"
+      ],
+      "responses": [
+        "Jawaharlal Nehru Technological University, Kakinada (JNTUK) is affiliated with many engineering colleges. Here are some major affiliated colleges:\n\n1. Aditya College of Engineering, Surampalem\n2. Pragati Engineering College, Surampalem\n3. GMR Institute of Technology, Rajam\n4. Godavari Institute of Engineering & Technology, Rajahmundry\n5. Srinivasa Institute of Engineering & Technology, Amalapuram\n6. BVC Engineering College, Odalarevu\n7. Kakinada Institute of Engineering & Technology, Korangi\n8. Lenora College of Engineering, Rampachodavaram\n9. Sri Vasavi Engineering College, Tadepalligudem\n10. VSM College of Engineering, Ramachandrapuram\n\nFor the full list and details about branches and fees, please specify the college name.",
+        "JNTUK (Kakinada) has many affiliated colleges. Some of the top ones are: Aditya College, Pragati, GMRIT, GIET, Srinivasa, BVC, KIET, Lenora, Sri Vasavi, VSM. Ask for a specific college for more info."
+      ]
+    },
+  "payment_methods": {
+    "keywords": ["payment method", "how to pay", "online payment", "pay fees", "fee payment", "upi", "net banking", "credit card", "debit card", "bank challan", "offline payment", "payment options"],
+    "responses": [
+      "Payments can be made online via the university portal using UPI, net banking, credit/debit card, or offline at the finance department via bank challan.",
+      "You can pay online through the portal with UPI, net banking, or cards, or in person at finance with challan.",
+      "Payment options include online (UPI, net banking, cards) or offline (bank challan at finance office).",
+      "Supported payment methods: UPI, net banking, credit/debit cards online, or bank challan offline.",
+      "Pay fees online via portal (UPI, banking, cards) or offline with challan at finance."
+    ]
+  },
+  "payment_deadline": {
+    "keywords": ["payment deadline", "last date for payment", "fee due date", "due date", "deadline", "pay by", "payment date", "fee payment deadline", "last date", "fee deadline", "deadline for fee", "last date for fee"],
+    "responses": [
+      "The last date for tuition fee payment is April 5. Late payments may attract penalties.",
+      "Fees must be paid by April 5 to avoid penalties.",
+      "Payment deadline is April 5; late fees apply after that.",
+      "Ensure payment is completed by April 5 to prevent late fee charges.",
+      "Fee payment due date: April 5."
+    ]
+  },
+  "late_fee_penalty": {
+    "keywords": ["late fee", "penalty", "fine", "late payment", "overdue", "fee penalty", "late charges"],
+    "responses": [
+      "A late fee of $50 per week is charged for payments made after the deadline.",
+      "Late payments incur a $50 weekly penalty.",
+      "$50 per week is added for overdue fees.",
+      "Penalties for late fees are $50 per week after the due date.",
+      "Late payment fine: $50 weekly."
+    ]
+  },
+  "refund_policy": {
+    "keywords": ["refund", "fee refund", "money back", "refund policy", "fee return", "refund process"],
+    "responses": [
+      "Fee refunds are allowed within the first two weeks of the semester as per university refund policy.",
+      "Refunds can be requested in the first two weeks of the semester.",
+      "The refund policy allows returns within two weeks.",
+      "To get a refund, apply within the first two weeks of the semester.",
+      "Refund available for fees paid in the first two weeks."
+    ]
+  },
+  "required_documents": {
+    "keywords": ["documents", "required documents", "certificates"],
+    "responses": [
+      "Students must submit ID proof, previous academic certificates, and payment receipts during enrollment.",
+      "Required documents include ID, academic certificates, and payment proof.",
+      "Submit ID, certificates, and receipts for enrollment.",
+      "Enrollment documents: ID proof, academic records, payment receipts.",
+      "Bring ID, certificates, and fee receipt for verification."
+    ]
+  },
+  "course_registration": {
+    "keywords": ["course registration", "subject selection", "register courses"],
+    "responses": [
+      "Course registration can be completed through the student portal after successful enrollment.",
+      "Register for courses via the student portal post-enrollment.",
+      "Use the student portal to select and register courses.",
+      "After enrollment, access the portal to register for subjects.",
+      "Course selection is done through the student portal."
+    ]
+  },
+  "semester_start": {
+    "keywords": ["semester start", "classes start", "academic calendar"],
+    "responses": [
+      "The semester begins on April 10, and classes will start from the same date.",
+      "Classes start on April 10.",
+      "The academic semester commences on April 10.",
+      "Semester opening: April 10.",
+      "Lectures begin on April 10."
+    ]
+  },
+  "attendance_policy": {
+    "keywords": ["attendance", "attendance rule", "minimum attendance", "attendance criteria", "75% attendance"],
+    "responses": [
+      "Students must maintain a minimum of 75% attendance to be eligible for examinations.",
+      "75% attendance is required for exams.",
+      "You need at least 75% attendance to sit for exams.",
+      "Minimum attendance requirement: 75%.",
+      "Attend at least 75% of classes to qualify for exams."
+    ]
+  },
+  "exam_schedule": {
+    "keywords": ["exam", "exams", "exam schedule"],
+    "responses": [
+      "The examination schedule will be published on the university website two weeks before exams.",
+      "Exam schedules are posted on the website two weeks prior.",
+      "Check the university website for exam dates two weeks before.",
+      "Exam timetable available on the portal 14 days before exams.",
+      "Visit the website for exam schedule updates."
+    ]
+  },
+  "internal_assessment": {
+    "keywords": ["internal marks", "assessment", "continuous evaluation"],
+    "responses": [
+      "Internal assessments include assignments, quizzes, and mid-term examinations.",
+      "Assessments consist of assignments, quizzes, and mid-terms.",
+      "Evaluation includes homework, quizzes, and mid-term tests.",
+      "Internal marks from assignments, quizzes, and mid-terms.",
+      "Continuous assessment: Assignments, quizzes, mid-exams."
+    ]
+  },
+  "scholarships": {
+    "keywords": ["scholarship", "financial aid", "fee concession", "aid", "merit scholarship", "need based"],
+    "responses": [
+      "Merit-based and need-based scholarships are available for eligible students.",
+      "Scholarships include merit and need-based options.",
+      "Financial aid is available through merit or need scholarships.",
+      "Apply for scholarships based on merit or financial need.",
+      "Scholarship programs: Merit and need-based aid."
+    ]
+  },
+  "installment_plans": {
+    "keywords": ["installment", "installment plan", "pay in installments", "fee installment", "monthly payment"],
+    "responses": [
+      "Installment plans allow fees to be paid in 2-3 parts over the semester.",
+      "You can opt for installment payment plans for semester fees.",
+      "Fee installments are available; contact finance for details.",
+      "Pay semester fees in installments; inquire at finance office.",
+      "Installment options: Split payments over the semester."
+    ]
+  },
+  "hostel_facility": {
+    "keywords": ["hostel", "accommodation", "stay"],
+    "responses": [
+      "Hostel facilities are available for both male and female students on a first-come basis.",
+      "Hostels are open to all students on a first-come, first-served basis.",
+      "Accommodation is provided in hostels for male and female students.",
+      "Apply for hostel on first-come basis for male/female students.",
+      "Hostel accommodation: Available for all genders, first-come."
+    ]
+  },
+  "library_access": {
+    "keywords": ["library", "library access", "books"],
+    "responses": [
+      "Students can access the university library using their student ID card.",
+      "Use your ID card to enter the library.",
+      "Library access requires a student ID.",
+      "Present student ID for library entry.",
+      "Library services available with valid ID card."
+    ]
+  },
+  "id_card": {
+    "keywords": ["id card", "student id", "identity card"],
+    "responses": [
+      "Student ID cards will be issued after successful enrollment and fee payment.",
+      "ID cards are issued upon enrollment and payment.",
+      "Receive your ID after completing enrollment and fees.",
+      "ID card collection after enrollment and fee clearance.",
+      "Student ID issued post-enrollment and payment."
+    ]
+  },
+  "technical_support": {
+    "keywords": ["technical issue", "portal problem", "login issue"],
+    "responses": [
+      "For technical issues, students can contact the IT support desk or raise a ticket online.",
+      "Contact IT support for technical problems.",
+      "Raise an online ticket for portal issues.",
+      "IT helpdesk available for portal and login issues.",
+      "Submit a support ticket for technical assistance."
+    ]
+  },
+  "contact_office": {
+    "keywords": ["contact", "help desk", "office"],
+    "responses": [
+      "For further assistance, students can visit the academic office during working hours.",
+      "Visit the academic office for help.",
+      "Contact the help desk for more assistance.",
+      "Academic office open during business hours for queries.",
+      "Reach out to the help desk for additional support."
+    ]
+  },
+  "greeting": {
+    "keywords": ["hello", "hi", "hey", "good morning", "good afternoon"],
+    "responses": [
+      "Hello! How can I assist you with university-related queries today?",
+      "Hi there! I'm here to help with information on enrollment, fees, and more.",
+      "Greetings! What questions do you have about the university?",
+      "Good day! How may I help with your university inquiries?",
+      "Welcome! Ask me about admissions, payments, or policies."
+    ]
+  },
+  "goodbye": {
+    "keywords": ["bye", "goodbye", "see you", "thanks"],
+    "responses": [
+      "Goodbye! If you have more questions, feel free to ask.",
+      "See you later! Don't hesitate to reach out for more help.",
+      "Thanks for chatting! Have a great day.",
+      "Farewell! Contact us anytime for more info.",
+      "Take care! We're here if you need assistance."
+    ]
+  },
+  "general": {
+    "keywords": [],
+    "responses": [
+      "I'm here to help with university-related questions. Could you please provide more details?",
+      "As an academic assistant, I can answer questions about enrollment, fees, and more. What would you like to know?",
+      "Feel free to ask about admissions, payments, or any university policies.",
+      "I'm designed to assist with student queries. How can I help you today?",
+      "That's an interesting question. While I'm focused on university matters, I can try to help with related topics.",
+      "I specialize in academic and enrollment information, but let's see if I can assist with that."
+    ]
+  }
+}
